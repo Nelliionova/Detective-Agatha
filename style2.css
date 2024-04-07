@@ -1,0 +1,40 @@
+header{
+    background-color: darkseagreen;
+}
+.murder{
+    display: flex;
+    flex-direction: column;
+}
+.nil{
+    display: flex;
+    flex-direction: column;
+}
+.ten{
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+.fact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.book{
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    background-color: darkseagreen;
+}

@@ -1,0 +1,31 @@
+header{
+    background-color: darkseagreen;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+}
+.fact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.books1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.books2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.books3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,19 @@
+header{
+    background-color: darkseagreen;
+}
+.vne{
+    display: flex;
+    justify-content: space-between;
+}
+.fact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+h3{
+    text-align: center;
+}
+.vne{
+    display: flex;
+    justify-content: space-around;
+}

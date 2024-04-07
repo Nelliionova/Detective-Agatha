@@ -1,0 +1,15 @@
+header{
+    background-color: darkseagreen;
+}
+.erkyl{
+    display: flex;
+    justify-content: center;
+}
+.fact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+h3{
+    text-align: center;
+}
