@@ -16,4 +16,17 @@ h3{
 .vne{
     display: flex;
     justify-content: space-around;
+}@media (max-width: 768px){
+  .vne{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  } 
+  .vne img{
+    width: 400px;
+  }
+  .fact{
+    display: flex;
+    flex-direction: column;
+  }
 }

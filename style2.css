@@ -38,3 +38,63 @@ header{
 footer{
     background-color: darkseagreen;
 }
+@media (max-width: 768px){
+    img{
+        width: 200px;
+    }
+    h3{
+        font-size: 5px;
+    }
+    .protivnik img{
+        width: 250px;
+        height: 250px;
+    }
+    .protivnik{
+        gap: 20px;
+    }
+    .ctaylc img{
+        width: 200px;
+        height: 300px;
+    }
+    .golf img{
+        width: 200px;
+        height: 300px;
+    }
+    .one{
+        gap: 50px;
+    }
+    header img{
+        width: 100px;
+    }
+    header{
+        width: 100%;
+        background-color: darkseagreen;
+    }
+}
+@media (max-width: 480px){
+    .top{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    header{
+        width: 100%;
+        background-color: darkseagreen;
+    }
+    .one{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .murder{
+        padding-left: 130px;
+    }
+    .ctaylc{
+        padding-left: 120px;
+    }
+    .golf{
+        padding-left: 100px;
+    }
+}

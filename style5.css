@@ -13,3 +13,17 @@ header{
 h3{
     text-align: center;
 }
+@media(max-width: 768px){
+    .fact{
+        display: flex;
+        flex-direction: column;
+    }
+    .fact img{
+        width: 250px;
+        height: 200px;
+    }
+    .erkyl img{
+        width: 500px;
+        height: 450px;
+    }
+}

@@ -13,3 +13,12 @@ header{
 h3{
     text-align: center;
 }
+@media (max-width: 768px){
+    .agata img{
+        width: 500px;
+    }
+    .fact{
+        display: flex;
+        flex-direction: column;
+    }
+}
